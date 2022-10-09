@@ -1,1 +1,1 @@
-# ScandiNew
+# Scandi

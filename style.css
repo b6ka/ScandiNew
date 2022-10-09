@@ -1,0 +1,121 @@
+*,
+*::after
+*::before{
+    margin: 0;
+    padding: 0;
+}
+
+.body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+li{
+    list-style: none
+}
+
+a{
+    text-decoration: none;
+}
+
+.wrapper{
+    width: 100%;
+    overflow: hidden;
+}
+
+.container{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url("/img/footer/anastasiya-vysotskaya-v5GfetB7Yv0-unsplash\ 1.jpg");
+    background-size: cover;
+    width: 100vw;
+    
+}
+
+.page{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+img{
+    vertical-align: top;
+}
+
+.logo{
+    margin-right: 89px;
+}
+
+.header{
+    display: flex;
+    margin-bottom: 84px;
+    margin-top: 38px;
+}
+
+.menu-item:not("last-child"){
+    margin-right: 26px;
+}
+
+.menu-link{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #533738;
+}
+
+.menu-list{
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    max-width: 634px;
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+
+.main-text{
+    max-width: 494px;
+    line-height: 30px;
+
+}
+
+.main-link1{
+    margin-top: 50px;
+    padding-bottom: 168px;
+}
+
+.main-link{
+    font-size: 20px;
+    font-weight: 500px;
+    color:#533738;
+    padding: 25px 65px;
+    background-color:#CC8B86;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
